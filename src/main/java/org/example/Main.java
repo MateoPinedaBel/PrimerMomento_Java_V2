@@ -25,8 +25,8 @@ public class Main {
 
         // Constantes
 
-        byte ANO_A_MES = 12;
-        short ANO_A_DIA = 365;
+        final byte ANO_A_MES = 12;
+        final short ANO_A_DIA = 365;
 
         // Proceso
 
