@@ -1,0 +1,13 @@
+# Ignorar todo
+*
+
+# Incluir solo Main.java en esa ruta exacta
+!src/
+!src/main/
+!src/main/java/
+!src/main/java/org/
+!src/main/java/org/example/
+!src/main/java/org/example/Main.java
+
+# (opcional) mantener el .gitignore visible
+!.gitignore
